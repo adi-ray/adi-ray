@@ -1,13 +1,16 @@
+<h1>Hi there👋, Welcome!</h1>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 <h1 align="left">Hi 👋, I'm Aditya</h1>
 <h3 align="center">I am a Full Stack Web Developer from India. </h3>
 
-- 🔭 I’m currently working on
+- 🔭 I’m from IIIT Vadodara taking Information Technology .
+
+- 👨‍💻 Currently GDSC Cloud Lead .
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 👨‍💻 All of my projects are available at 
+- 😃 Pronouns: He/Him
 
 
 - 📫 How to reach me **adityadns03@gmail.com**
@@ -19,7 +22,7 @@
 <a href="https://www.linkedin.com/in/adi-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adi-ray" height="30" width="40" /></a>
 
 </p>
-<!--
+
 <h3 align="left">Languages and Tools:</h3>
 
 <table align="center">
@@ -48,17 +51,17 @@
       </a>
       <br>Javascript
     </td>
-     <td align="center" width="96">
-      <a href="#vuejs">
-        <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="48" height="48" alt="Vuejs" />
+    <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
       </a>
-      <br>Vue JS
+      <br>Git
     </td>
-     <td align="center" width="96">
+<!--      <td align="center" width="96">
       <a href="#suhailkakar-tech">
         <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
       </a>
-      <br>Nuxt JS
+      <br>Nuxt JS -->
     </td>
   </tr>
 
@@ -69,11 +72,11 @@
       </a>
       <br>PHP
     </td>
-      <td align="center" width="96">
+<!--       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
-      <br>Laravel
+      <br>Laravel -->
     </td>
       <td align="center" width="96">
       <a href="#laravel">
@@ -81,74 +84,73 @@
       </a>
       <br>MySQL
     </td>
-     <td align="center" width="96">
-      <a href="#ts">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-     <td align="center" width="96">
-        <a href="#livewire">
-            <img src="https://i0.wp.com/laravel-livewire.com/img/twitter.png" width="48" height="48"
-                alt="livewire" />
-        </a>
-        <br>Livewire
-    </td>
-    <td align="center" width="96">
-        <a href="#alpinejs">
-            <img src="https://seeklogo.com/images/A/alpine-js-logo-21F4169EAB-seeklogo.com.png" width="48"
-                height="48" alt="alpinejs" />
-        </a>
-        <br>Alpine JS
-    </td>
-  </tr>
-   <tr>
-      <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-     <td align="center" width="96">
-      <a href="#digitalocean">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
-      </a>
-      <br>Digital Ocean
-    </td>
-      <td align="center" width="96">
-      <a href="#git" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-      <td align="center"  width="96">
+     <td align="center"  width="96">
       <a href="#vscode">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
       </a>
       <br>VS Code
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#postman" >
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
       </a>
       <br>Postman
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+  </tr>
+   <tr>
+<!--       <td align="center" width="96">
+      <a href="#ubuntu" >
+        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+      </a>
+      <br>Ubuntu -->
+    </td>
+<!--      <td align="center" width="96">
+      <a href="#digitalocean">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/DigitalOcean_logo.svg" width="48" height="48" alt="Digital Ocean" />
+      </a>
+      <br>Digital Ocean -->
+    </td>
+<!--       <td align="center" width="96">
+      <a href="#git" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git -->
+    </td>
+<!--       <td align="center"  width="96">
+      <a href="#vscode">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="Jamstack" />
+      </a>
+      <br>VS Code -->
+    </td>
+<!--       <td align="center" width="96">
+      <a href="#postman" >
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Postman -->
+    </td>
+<!--       <td align="center" width="96">
       <a href="#vuepress" >
         <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
       </a>
-      <br>VuePress
+      <br>VuePress -->
     </td>
   </tr>
 </table>
--->
+
+
 ---
 <details>
   <summary> ✌️ My GitHub Analytics </summary>
 <p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi-ray&show_icons=true&locale=en&layout=compact&theme=radical" alt="adi-ray" /></p>
 <p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=adi-ray&show_icons=true&locale=en&theme=radical" alt="adi-ray" /></p>
 <p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-ray&theme=radical" alt="adi-ray" /></p>
-<p><img width="100%" height="350px" alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adi-ray&theme=github" /></p>
+<!-- <p><img width="100%" height="350px" alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adi-ray&theme=github" /></p> -->
 </details>
 
 ----
