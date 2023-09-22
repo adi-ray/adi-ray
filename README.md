@@ -143,6 +143,7 @@
   </tr>
 </table>
 
+[![Aditya Ray's Holopin board](https://holopin.me/ray_aadii)](https://holopin.me/ray_aadii)
 
 ---
 <details>
