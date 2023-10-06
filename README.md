@@ -1,7 +1,7 @@
 <h1>Hi there👋, Welcome!</h1>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
-<h1 align="left">Hi 👋, I'm Aditya</h1>
+<h1 align="left">I'm Aditya</h1>
 <h3 align="center">I am a Full Stack Web Developer from India. </h3>
 
 - 🔭 I’m from IIIT Vadodara taking Information Technology .
@@ -17,9 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/adiray" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adi-ray" height="30" width="40" /></a>
+<a href="https://dev.to/adiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adi-ray" height="30" width="40" /></a>
 <a href="https://twitter.com/ray_aadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi-ray" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adi-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adi-ray" height="30" width="40" /></a>
+<a href="https://leetcode.com/ray_aadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="in/adi-ray" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adityadns03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="in/adi-ray" height="30" width="40" /></a>
 
 </p>
 
