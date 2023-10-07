@@ -4,7 +4,7 @@
 <h1 align="left">I'm Aditya</h1>
 <h3 align="center">I am a Full Stack Web Developer from India. </h3>
 
-- 🔭 I’m from IIIT Vadodara taking Information Technology .
+- 🔭 I’m a Pre-Final year student currently pursuing B.Tech in IT from IIIT Vadodara.
 
 - 👨‍💻 Currently GDSC Cloud Lead .
 
@@ -13,9 +13,9 @@
 - 😃 Pronouns: He/Him
 
 
-- 📫 How to reach me **adityadns03@gmail.com**
+- 📫 Reach me via **adityadns03@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me :</h3>
 <p align="left">
 <a href="https://dev.to/adiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adi-ray" height="30" width="40" /></a>
 <a href="https://twitter.com/ray_aadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi-ray" height="30" width="40" /></a>
@@ -25,7 +25,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools :</h3>
 
 <table align="center">
   <tr>
@@ -157,3 +157,5 @@
 </details>
 
 ----
+
+<h2>Thanks For Visiting!  </h2>
