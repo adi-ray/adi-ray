@@ -106,11 +106,10 @@
     </td>
   </tr>
    <tr>
-<!--       <td align="center" width="96">
-      <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
-      </a>
-      <br>Ubuntu -->
+      <td align="center" width="96">
+       <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+       </a>
+      <br>Google Cloud 
     </td>
 <!--      <td align="center" width="96">
       <a href="#digitalocean">
