@@ -107,9 +107,14 @@
   </tr>
    <tr>
       <td align="center" width="96">
-       <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+       <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/> 
        </a>
       <br>Google Cloud 
+    </td>
+      <td align="center" width="96">
+       <a href="#docker"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40" height="40"/> 
+       </a>
+      <br>Docker 
     </td>
 <!--      <td align="center" width="96">
       <a href="#digitalocean">
