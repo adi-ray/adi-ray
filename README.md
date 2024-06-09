@@ -152,14 +152,18 @@
 [![Aditya Ray's Holopin board](https://holopin.me/ray_aadii)](https://holopin.me/ray_aadii)
 
 ---
+
+
 <details>
-  <summary> ✌️ My GitHub Analytics </summary>
-<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi-ray&show_icons=true&locale=en&layout=compact&theme=radical" alt="adi-ray" /></p>
-<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-stats.vercel.app/api?username=adi-ray&show_icons=true&locale=en&theme=radical" alt="adi-ray" /></p>
-<p><img width="100%" height="300px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-ray&theme=radical" alt="adi-ray" /></p>
-<!-- <p><img width="100%" height="350px" alt="Aditya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=adi-ray&theme=github" /></p> -->
+  <summary>  <b>📊 GitHub Stats</b> </summary>
+<p><img width="100%" height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=adi-ray&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true" alt="adi-ray" /></p>
+<p>&nbsp;<img width="100%" height="250px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi-ray&theme=vue-dark&hide_border=false" alt="adi-ray" /></p>
+<p><img width="100%" height="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi-ray&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="adi-ray" /></p>
 </details>
 
-----
+
+____________
+
+[![](https://visitcount.itsvg.in/api?id=adi-ray&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <h2>Thanks For Visiting!  </h2>
