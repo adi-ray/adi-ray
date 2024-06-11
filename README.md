@@ -1,6 +1,7 @@
-<h1>Hi there👋, Welcome!</h1>
+<h1>Hi there <img src="https://github.com/vishant-mehta/vishant-mehta/blob/main/hello.gif" width="29px">, Welcome!</h1>
 
 <h1 align="left">I'm Aditya</h1>
+<img align="center" alt="GIF" src="https://github.com/staticshreyas/staticshreyas/blob/master/coder.gif?raw=true" width="500" height="340" />
 <h3 align="center">I am a Full Stack Web Developer from India. </h3>
 
 - 🔭 I’m a Pre-Final year student currently pursuing B.Tech in IT from IIIT Vadodara.
