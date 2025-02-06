@@ -4,7 +4,7 @@
 <img align="center" alt="GIF" src="https://github.com/staticshreyas/staticshreyas/blob/master/coder.gif?raw=true" width="500" height="340" />
 <h3 align="center">I am a Full Stack Web Developer from India. </h3>
 
-- 🔭 I’m a Pre-Final year student currently pursuing B.Tech in IT from IIIT Vadodara.
+- 🔭 I’m a Final year student currently pursuing B.Tech in IT from IIIT Vadodara.
 
 - 👨‍💻 Currently GDSC Cloud Lead .
 
@@ -164,6 +164,6 @@
 
 ____________
 
-[![](https://visitcount.itsvg.in/api?id=adi-ray&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=adi-ray&style=plastic&label=PROFILE+VIEWS)
 
 <h2>Thanks For Visiting!  </h2>
