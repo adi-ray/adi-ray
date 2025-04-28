@@ -30,8 +30,8 @@
 <table align="center">
   <tr>
       <td align="center" width="96">
-      <a href="#html5">
-        <img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="48" height="48" alt="Html5" />
+      <a href="#html">
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="48" height="48" alt="Html" />
       </a>
       <br>Html
     </td>
@@ -59,27 +59,9 @@
       </a>
       <br>Git
     </td>
-<!--      <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" width="48" height="48" alt="Nuxtjs" />
-      </a>
-      <br>Nuxt JS -->
-    </td>
   </tr>
 
   <tr>
-     <td align="center" width="96">
-      <a href="#nuxtjs" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
-      </a>
-      <br>PHP
-    </td>
-<!--       <td align="center" width="96">
-      <a href="#laravel">
-        <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="48" height="48" alt="Laravel" />
-      </a>
-      <br>Laravel -->
-    </td>
       <td align="center" width="96">
       <a href="#laravel">
         <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" width="48" height="48" alt="Laravel" />
@@ -100,9 +82,15 @@
     </td>
     <td align="center" width="96">
       <a href="#ubuntu" >
-        <img src="https://seeklogo.com/images/U/ubuntu-logo-8FDEC6A07B-seeklogo.com.png" width="48" height="48" alt="ubuntu" />
+        <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="48" height="48" alt="ubuntu" />
       </a>
       <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <a href="#react" >
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="react" />
+      </a>
+      <br>ReactJs
     </td>
   </tr>
    <tr>
@@ -140,12 +128,7 @@
       </a>
       <br>Postman -->
     </td>
-<!--       <td align="center" width="96">
-      <a href="#vuepress" >
-        <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>VuePress -->
-    </td>
+
   </tr>
 </table>
 
