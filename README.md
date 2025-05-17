@@ -90,7 +90,7 @@
       <a href="#react" >
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="48" height="48" alt="react" />
       </a>
-      <br>ReactJs
+      <br>React Js
     </td>
   </tr>
    <tr>
@@ -103,6 +103,21 @@
        <a href="#docker"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="40" height="40"/> 
        </a>
       <br>Docker 
+    </td>
+      <td align="center" width="96">
+       <a href="#mongodb"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40"/> 
+       </a>
+      <br>MongoDB 
+    </td>
+      <td align="center" width="96">
+       <a href="#next"> <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" width="40" height="40"/> 
+       </a>
+      <br>Next.js
+    </td>
+      <td align="center" width="96">
+       <a href="#node"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" /> 
+       </a>
+      <br>Node.js
     </td>
 <!--      <td align="center" width="96">
       <a href="#digitalocean">
