@@ -20,7 +20,7 @@
 <a href="https://dev.to/adiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adi-ray" height="30" width="40" /></a>
 <a href="https://twitter.com/ray_aadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi-ray" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adi-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adi-ray" height="30" width="40" /></a>
-<a href="https://leetcode.com/ray_aadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="in/adi-ray" height="30" width="40" /></a>
+<a href="https://leetcode.com/adi-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="in/adi-ray" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityadns03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="in/adi-ray" height="30" width="40" /></a>
 
 </p>
