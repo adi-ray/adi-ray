@@ -169,6 +169,15 @@ ____________
 </div>
 
 
-![](https://komarev.com/ghpvc/?username=adi-ray&style=plastic&label=PROFILE+VIEWS)
+ <!-- PROFILE VIEWS -->
+<img 
+    align="center" 
+    height="24" 
+    src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25"
+/><img 
+    align="center" 
+    height="24" 
+    src="https://profile-counter.glitch.me/{adi-ray}/count.svg"
+/>
 
 <h2>Thanks For Visiting!  </h2>
