@@ -163,6 +163,7 @@ ____________
 
 
 <div align="center">
+<a href="https://www.credly.com/badges/43bf5190-75fe-4fe7-8ad9-848c0673c7ec/public_url" target="_blank"><img src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" height="150"></a>
 <a href="https://www.credly.com/badges/abb9d2de-3b94-4ba2-966c-b1137b192b86/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" height="150"></a>
 <a href="https://api.badgr.io/public/assertions/0ssxbEs7TzC4_qI88v04Tg" target="_blank"><img src="https://media.badgr.com/uploads/badges/assertion-0ssxbEs7TzC4_qI88v04Tg.png?versionId=Jr3jEmNVmPWuvNFOEEJn6yp7kHNH5JFM" height="150"></a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9CA751C0A9F614F0205EA1818148F052A79A59CC94679EB0DA38B6A720791AF8" target="_blank"><img src="https://images.credly.com/images/5f8da909-46d6-4f07-b2c8-0b64de8aca06/OCI2024GAIOCP_cached_image_20250527-27-ta3s1e.png" height="150"></a>
