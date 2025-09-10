@@ -18,8 +18,8 @@
 <h3 align="left">🤝 Connect with me :</h3>
 <p align="left">
 <a href="https://dev.to/adiray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adi-ray" height="30" width="40" /></a>
-<a href="https://twitter.com/ray_aadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adi-ray" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/adi-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/adi-ray" height="30" width="40" /></a>
+<a href="https://twitter.com/ray_aadii" target="blank"><img align="center" src="https://raw.githubusercontent.com/gist/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="adi-ray" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adi-ray" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="in/adi-ray" width="40" /></a>
 <a href="https://leetcode.com/adi-ray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="in/adi-ray" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/adityadns03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="in/adi-ray" height="30" width="40" /></a>
 
@@ -181,4 +181,4 @@ ____________
     src="https://profile-counter.glitch.me/{adi-ray}/count.svg"
 />
 
-<h2>Thanks For Visiting!  </h2>
+<h2> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e379a33a-b428-4385-b44f-3da16e7bac9f" width="35"> Thanks For Visiting!</h2>
